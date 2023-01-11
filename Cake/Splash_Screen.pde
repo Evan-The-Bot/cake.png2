@@ -1,7 +1,7 @@
 void splashScreen() {
-  rotate(random(0, 225));
-  fill(0, 0, random(0, 255));
-  rect(rectIX, rectIY, rectIWidth, rectIHeight);
+  //rotate(random(0, 225));
+  //fill(0, 0, random(0, 255));
+  rect(rectIX, rectIY, rectIWidth, rectIHeight);/*
   rotate(random(0, 225));
   fill(0, 0, random(0, 255));
   rect(rectIIX, rectIIY, rectIIWidth, rectIIHeight);
@@ -25,5 +25,5 @@ void splashScreen() {
   rect(rectVIIIX, rectVIIIY, rectVIIIWidth, rectVIIIHeight);
   rotate(random(0, 225));
     rect(rectIXX, rectIXY, rectIXWidth, rectIXHeight);
-  rotate(random(0, 225));
+  rotate(random(0, 225));*/
 }

@@ -34,7 +34,8 @@ void homeScreen() {
   rect(buttonIX, buttonIY, buttonIW, buttonIH);
   image(BigButtonImageII, buttonIIX, buttonIIY, buttonIIW, buttonIIH);
   rect(buttonIIX, buttonIIY, buttonIIW, buttonIIH);
-  image(smollButtonIII, smollButtonIX, smollButtonIY, smollButtonIW, smollButtonIH);
+  //image(smollButtonIII, smollButtonIX, smollButtonIY, smollButtonIW, smollButtonIH);
+   fill(255, 243, 201);
   rect(smollButtonIX, smollButtonIY, smollButtonIW, smollButtonIH);
   image(smollButtonI, smollButtonIIX, smollButtonIIY, smollButtonIIW, smollButtonIIH);
   rect(smollButtonIIX, smollButtonIIY, smollButtonIIW, smollButtonIIH);

@@ -1,7 +1,6 @@
 void QuitText() {
+  image(BigButtonImage, quitX, quitY, quitW, quitH);
   fill(White);
-  rect(quitX, quitY, quitW, quitH);
-  fill(Red);
   textAlign(CENTER, CENTER);
   textFont (font, size);
   text(QuitButton, quitX, quitY, quitW, quitH );
