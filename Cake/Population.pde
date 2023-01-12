@@ -125,6 +125,31 @@ void population() {
   tallButtonIIW = appWidth * 1/13;  
   tallButtonIIH = appHeight * 15/100; 
   //
+  VerticalCakeIX = appWidth * 0/3;
+  VerticalCakeIY = appHeight * 1/3;
+  VerticalCakeIW = appWidth * 1/13;
+  VerticalCakeIH = appHeight * 15/100;
+  //
+  VerticalCakeIIX = appWidth * 0/3;
+  VerticalCakeIIY = appHeight * ;
+  VerticalCakeIIW = appWidth * 1/13;
+  VerticalCakeIIH = appHeight * 15/100;
+  /*
+  VerticalCakeIIIX = appWidth * ;
+  VerticalCakeIIIY = appHeight * ;
+  VerticalCakeIIIW = appWidth * 1/13;
+  VerticalCakeIIIH = appHeight * 15/100; 
+  //
+  VerticalCakeIVX = appWidth * ;
+  VerticalCakeIVY = appHeight * ;
+  VerticalCakeIVW = appWidth * 1/13;
+  VerticalCakeIVH = appHeight * 15/100; 
+  //
+  VerticalCakeVX = appWidth * ;
+  VerticalCakeVY = appHeight * ;
+  VerticalCakeVW = appWidth * 1/13;
+  VerticalCakeVH = appHeight * 15/100;
+  */
   Cake=loadImage("../Images/Cake.jpg");
   BigButtonImage=loadImage("../Images/BigButton.jpg");
   BigButtonImageII=loadImage("../Images/BigButton 2.jpg");

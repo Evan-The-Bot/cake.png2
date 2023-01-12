@@ -29,3 +29,8 @@ float wideButtonIX, wideButtonIY, wideButtonIW, wideButtonIH;
 float wideButtonIIX, wideButtonIIY, wideButtonIIW, wideButtonIIH;
 float tallButtonIX, tallButtonIY, tallButtonIW, tallButtonIH;
 float tallButtonIIX, tallButtonIIY, tallButtonIIW, tallButtonIIH;
+float VerticalCakeIX, VerticalCakeIY, VerticalCakeIW, VerticalCakeIH;
+float VerticalCakeIIX, VerticalCakeIIY, VerticalCakeIIW, VerticalCakeIIH;
+float VerticalCakeIIIX, VerticalCakeIIIY, VerticalCakeIIIW, VerticalCakeIIIH;
+float VerticalCakeIVX, VerticalCakeIVY, VerticalCakeIVW, VerticalCakeIVH;
+float VerticalCakeVX, VerticalCakeVY, VerticalCakeVW, VerticalCakeVH;

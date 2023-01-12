@@ -34,8 +34,7 @@ void homeScreen() {
   rect(buttonIX, buttonIY, buttonIW, buttonIH);
   image(BigButtonImageII, buttonIIX, buttonIIY, buttonIIW, buttonIIH);
   rect(buttonIIX, buttonIIY, buttonIIW, buttonIIH);
-  //image(smollButtonIII, smollButtonIX, smollButtonIY, smollButtonIW, smollButtonIH);
-   fill(255, 243, 201);
+  image(smollButtonIII, smollButtonIX, smollButtonIY, smollButtonIW, smollButtonIH);
   rect(smollButtonIX, smollButtonIY, smollButtonIW, smollButtonIH);
   image(smollButtonI, smollButtonIIX, smollButtonIIY, smollButtonIIW, smollButtonIIH);
   rect(smollButtonIIX, smollButtonIIY, smollButtonIIW, smollButtonIIH);
@@ -54,4 +53,15 @@ void homeScreen() {
   //
   rect(tallButtonIIX, tallButtonIIY, tallButtonIIW, tallButtonIIH);
   //
+  fill(255, 243, 201);
+  //
+  rect(VerticalCakeIX, VerticalCakeIY, VerticalCakeIW, VerticalCakeIH);
+  //
+  rect(VerticalCakeIIX, VerticalCakeIIY, VerticalCakeIIW, VerticalCakeIIH);
+  //
+  rect(VerticalCakeIIIX, VerticalCakeIIIY, VerticalCakeIIIW, VerticalCakeIIIH);
+  //
+  rect(VerticalCakeIVX, VerticalCakeIVY, VerticalCakeIVW, VerticalCakeIVH);
+  //
+  rect(VerticalCakeVX, VerticalCakeVY, VerticalCakeVW, VerticalCakeVH);
 }
