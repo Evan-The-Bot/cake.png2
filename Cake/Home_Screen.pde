@@ -11,7 +11,7 @@ void homeScreen() {
     rect(buttonIIIX, buttonIIIY, buttonIIIW, buttonIIIH);
   }
   //
-  stroke(White);
+  stroke(/*White*/Black);
   noFill();
   rect(rectIX, rectIY, rectIWidth, rectIHeight);
   //
