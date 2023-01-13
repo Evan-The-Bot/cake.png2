@@ -22,80 +22,80 @@ void population() {
   //
   rectIX = appWidth * 0; 
   rectIY  = appHeight * 0;
-  rectIWidth  = appWidth * 1/3; 
-  rectIHeight  = appHeight * 1/3;
+  rectIWidth  = appWidth * 319/900; 
+  rectIHeight  = appHeight * 319/900;
   //
   rectIIX  = appWidth * 1/3;
   rectIIY = appHeight * 0;
-  rectIIWidth  = appWidth * 1/3; 
-  rectIIHeight = appHeight * 1/3;
+  rectIIWidth  = appWidth * 100/300; 
+  rectIIHeight = appHeight * 100/300;
   //
   rectIIIX  = appWidth * 2/3;
   rectIIIY = appHeight * 0;
-  rectIIIWidth  = appWidth * 1/3; 
-  rectIIIHeight = appHeight * 1/3;
+  rectIIIWidth  = appWidth * 100/300; 
+  rectIIIHeight = appHeight * 100/300;
   //
   rectIVX  = appWidth * 0;
   rectIVY  = appHeight * 1/3;
-  rectIVWidth  = appWidth * 1/3;
-  rectIVHeight = appHeight * 1/3;
+  rectIVWidth  = appWidth * 100/300;
+  rectIVHeight = appHeight * 100/300;
   //
   rectVX = appWidth * 1/3;
   rectVY = appHeight * 1/3;
-  rectVWidth = appWidth * 1/3;
-  rectVHeight = appHeight * 1/3;
+  rectVWidth = appWidth * 100/300;
+  rectVHeight = appHeight * 100/300;
   //
   rectVIX  = appWidth * 2/3;
   rectVIY = appHeight * 1/3;
-  rectVIWidth = appWidth * 1/3;
-  rectVIHeight = appHeight * 1/3;
+  rectVIWidth = appWidth * 100/300;
+  rectVIHeight = appHeight * 100/300;
   //
   rectVIIX  = appWidth * 0; 
   rectVIIY  = appHeight * 2/3;
-  rectVIIWidth  = appWidth * 1/3; 
-  rectVIIHeight = appHeight * 1/3;
+  rectVIIWidth  = appWidth * 100/300; 
+  rectVIIHeight = appHeight * 100/300;
   //
   rectVIIIX  = appWidth * 1/3; 
   rectVIIIY = appHeight * 2/3;
-  rectVIIIWidth = appWidth * 1/3; 
-  rectVIIIHeight = appHeight * 1/3;
+  rectVIIIWidth = appWidth * 100/300; 
+  rectVIIIHeight = appHeight * 100/300;
   //
   rectIXX  = appWidth * 2/3; 
   rectIXY = appHeight * 2/3;
-  rectIXWidth  = appWidth * 1/3; 
-  rectIXHeight = appHeight * 1/3;
+  rectIXWidth  = appWidth * 100/300; 
+  rectIXHeight = appHeight * 100/300;
   //
-  buttonIIX = appWidth * 3/21;
-  buttonIIY = appHeight * 2/15;
+  buttonIIX = appWidth * 298/2100;
+  buttonIIY = appHeight * 205/1500;
   buttonIIW = appWidth * 1/7;
   buttonIIH = appHeight * 15/100;
   //
-  buttonIX = appWidth * 13/18;
-  buttonIY = appHeight * 5/25;
+  buttonIX = appWidth * 129/180;
+  buttonIY = appHeight * 52/250;
   buttonIW = appWidth * 1/7;
   buttonIH = appHeight * 15/100;
   //
-  buttonIIIX =appWidth * 3/7;
-  buttonIIIY = appHeight * 3/7;
+  buttonIIIX =appWidth * 300/700;
+  buttonIIIY = appHeight * 300/700;
   buttonIIIW = appWidth * 1/7;
   buttonIIIH = appHeight * 15/100;
   //
-  smollButtonIX =appWidth * 387/600;
+  smollButtonIX = appWidth * 387/600;
   smollButtonIY = appHeight * 129/180;
   smollButtonIW = appWidth * 1/14;
   smollButtonIH = appHeight * 1/14;
   //
-  smollButtonIIX =appWidth * 517/600;
+  smollButtonIIX = appWidth * 517/600;
   smollButtonIIY = appHeight * 129/180;
   smollButtonIIW = appWidth * 1/14;
   smollButtonIIH = appHeight * 1/14;
   //
-  smollButtonIIIX =appWidth * 112/800;
+  smollButtonIIIX = appWidth * 113/800;
   smollButtonIIIY = appHeight * 116/180;
   smollButtonIIIW = appWidth * 1/14;
   smollButtonIIIH = appHeight * 1/14;
   //
-  smollButtonIVX = appWidth * 180/500;
+  smollButtonIVX = appWidth * 179/500;
   smollButtonIVY = appHeight * 155/180;
   smollButtonIVW = appWidth * 1/14;
   smollButtonIVH = appHeight * 1/14;
